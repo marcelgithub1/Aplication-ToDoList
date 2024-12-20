@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marce\\source\\repos\\ToDoListApplication\\ToDoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32EADC22-3ED2-4B51-8D32-DF3A9BC3FD6C}|ToDoList\\ToDoList.csproj|c:\\users\\marce\\source\\repos\\todolistapplication\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EADC22-3ED2-4B51-8D32-DF3A9BC3FD6C}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EADC22-3ED2-4B51-8D32-DF3A9BC3FD6C}|ToDoList\\ToDoList.csproj|c:\\users\\marce\\source\\repos\\todolistapplication\\todolist\\todolist\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EADC22-3ED2-4B51-8D32-DF3A9BC3FD6C}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EADC22-3ED2-4B51-8D32-DF3A9BC3FD6C}|ToDoList\\ToDoList.csproj|c:\\users\\marce\\source\\repos\\todolistapplication\\todolist\\todolist\\repository\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EADC22-3ED2-4B51-8D32-DF3A9BC3FD6C}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\repository\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EADC22-3ED2-4B51-8D32-DF3A9BC3FD6C}|ToDoList\\ToDoList.csproj|c:\\users\\marce\\source\\repos\\todolistapplication\\todolist\\todolist\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EADC22-3ED2-4B51-8D32-DF3A9BC3FD6C}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EADC22-3ED2-4B51-8D32-DF3A9BC3FD6C}|ToDoList\\ToDoList.csproj|c:\\users\\marce\\source\\repos\\todolistapplication\\todolist\\todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32EADC22-3ED2-4B51-8D32-DF3A9BC3FD6C}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EADC22-3ED2-4B51-8D32-DF3A9BC3FD6C}|ToDoList\\ToDoList.csproj|c:\\users\\marce\\source\\repos\\todolistapplication\\todolist\\todolist\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EADC22-3ED2-4B51-8D32-DF3A9BC3FD6C}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marce\\source\\repos\\Aspnet3Camadas\\Aspnet3Camadas.WebUI\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marce\\source\\repos\\Aspnet3Camadas\\Aspnet3Camadas.WebUI\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EADC22-3ED2-4B51-8D32-DF3A9BC3FD6C}|ToDoList\\ToDoList.csproj|c:\\users\\marce\\source\\repos\\todolistapplication\\todolist\\todolist\\todolist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32EADC22-3ED2-4B51-8D32-DF3A9BC3FD6C}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\todolist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marce\\source\\repos\\Aspnet3Camadas\\Aspnet3Camadas.DAL\\AcessoDB.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marce\\source\\repos\\Aspnet3Camadas\\Aspnet3Camadas.DTO\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Aspnet3Camadas\\Aspnet3Camadas.WebUI\\packages.config",
+              "RelativeDocumentMoniker": "..\\..\\Aspnet3Camadas\\Aspnet3Camadas.WebUI\\packages.config",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Aspnet3Camadas\\Aspnet3Camadas.WebUI\\packages.config",
+              "RelativeToolTip": "..\\..\\Aspnet3Camadas\\Aspnet3Camadas.WebUI\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-19T04:38:05.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TarefaController.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\ToDoListApplication\\ToDoList\\ToDoList\\Controllers\\TarefaController.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Controllers\\TarefaController.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\ToDoListApplication\\ToDoList\\ToDoList\\Controllers\\TarefaController.cs",
+              "RelativeToolTip": "ToDoList\\Controllers\\TarefaController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:12:05.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TarefaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\ToDoListApplication\\ToDoList\\ToDoList\\Repository\\TarefaRepository.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Repository\\TarefaRepository.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\ToDoListApplication\\ToDoList\\ToDoList\\Repository\\TarefaRepository.cs",
+              "RelativeToolTip": "ToDoList\\Repository\\TarefaRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:01:08.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\ToDoListApplication\\ToDoList\\ToDoList\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Program.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\ToDoListApplication\\ToDoList\\ToDoList\\Program.cs",
+              "RelativeToolTip": "ToDoList\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:57:51.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Aspnet3Camadas\\Aspnet3Camadas.WebUI\\Web.config",
+              "RelativeDocumentMoniker": "..\\..\\Aspnet3Camadas\\Aspnet3Camadas.WebUI\\Web.config",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Aspnet3Camadas\\Aspnet3Camadas.WebUI\\Web.config",
+              "RelativeToolTip": "..\\..\\Aspnet3Camadas\\Aspnet3Camadas.WebUI\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-19T03:52:23.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AcessoDB.vb",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Aspnet3Camadas\\Aspnet3Camadas.DAL\\AcessoDB.vb",
+              "RelativeDocumentMoniker": "..\\..\\Aspnet3Camadas\\Aspnet3Camadas.DAL\\AcessoDB.vb",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Aspnet3Camadas\\Aspnet3Camadas.DAL\\AcessoDB.vb",
+              "RelativeToolTip": "..\\..\\Aspnet3Camadas\\Aspnet3Camadas.DAL\\AcessoDB.vb",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAALkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-19T03:51:57.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Aspnet3Camadas\\Aspnet3Camadas.DTO\\Cliente.cs",
+              "RelativeDocumentMoniker": "..\\..\\Aspnet3Camadas\\Aspnet3Camadas.DTO\\Cliente.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Aspnet3Camadas\\Aspnet3Camadas.DTO\\Cliente.cs",
+              "RelativeToolTip": "..\\..\\Aspnet3Camadas\\Aspnet3Camadas.DTO\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:51:33.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\ToDoListApplication\\ToDoList\\ToDoList\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoList\\appsettings.json",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\ToDoListApplication\\ToDoList\\ToDoList\\appsettings.json",
+              "RelativeToolTip": "ToDoList\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T03:45:05.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\ToDoListApplication\\ToDoList\\ToDoList\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\ToDoListApplication\\ToDoList\\ToDoList\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ToDoList\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:43:33.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\ToDoListApplication\\ToDoList\\ToDoList\\Models\\Tarefa.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Models\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\ToDoListApplication\\ToDoList\\ToDoList\\Models\\Tarefa.cs",
+              "RelativeToolTip": "ToDoList\\Models\\Tarefa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:37:18.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToDoList",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\ToDoListApplication\\ToDoList\\ToDoList\\ToDoList.csproj",
+              "RelativeDocumentMoniker": "ToDoList\\ToDoList.csproj",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\ToDoListApplication\\ToDoList\\ToDoList\\ToDoList.csproj",
+              "RelativeToolTip": "ToDoList\\ToDoList.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T03:35:49.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
